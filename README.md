@@ -1,1 +1,1 @@
-"# Diabetes-prediction-system" 
+Diabetes prediction system using Support Vector Machines(SVM)
